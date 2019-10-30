@@ -1,0 +1,79 @@
+[
+  {
+    "id": 0,
+    "name": "Kala",
+    "desc": "Bubbly and smart",
+    "age": 2,
+    "image": "1.jpg",
+    "likedCats": [],
+    "superLikedCats": [],
+    "dislikedCats": [],
+    "likedBy": []
+  },
+  {
+    "id": 1,
+    "name": "Martin",
+    "desc": "Cutest guy",
+    "age": 2,
+    "image": "2.jpg",
+    "likedCats": [],
+    "superLikedCats": [],
+    "dislikedCats": [],
+    "likedBy": []
+  },
+  {
+    "id": 2,
+    "name": "Emily",
+    "desc": "Actress",
+    "age": 3,
+    "image": "3.jpg",
+    "likedCats": [],
+    "superLikedCats": [],
+    "dislikedCats": [],
+    "likedBy": []
+  },
+  {
+    "id": 3,
+    "name": "Michael",
+    "desc": "Im my own boss",
+    "age": 2,
+    "image": "4.jpg",
+    "likedCats": [],
+    "superLikedCats": [],
+    "dislikedCats": [],
+    "likedBy": []
+  },
+  {
+    "id": 4,
+    "name": "Dwight",
+    "desc": "Sales",
+    "age": 1,
+    "image": "5.jpg",
+    "likedCats": [],
+    "superLikedCats": [],
+    "dislikedCats": [],
+    "likedBy": []
+  },
+  {
+    "id": 5,
+    "name": "Jessica",
+    "desc": "Actress",
+    "age": 3,
+    "image": "6.jpg",
+    "likedCats": [],
+    "superLikedCats": [],
+    "dislikedCats": [],
+    "likedBy": []
+  },
+  {
+    "id": 6,
+    "name": "Alexandra",
+    "desc": "Actress",
+    "age": 2,
+    "image": "7.jpg",
+    "likedCats": [],
+    "superLikedCats": [],
+    "dislikedCats": [],
+    "likedBy": []
+  }
+]
