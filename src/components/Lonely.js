@@ -1,12 +1,12 @@
 import React from 'react';
 import LikedCat from './LikedCat';
 
-const Lonely = ({ activeCatsImage, likedCats, superLikedCats }) => (
+const Lonely = ({ activeCatImage, likedCats, superLikedCats }) => (
   <div id="lonely">
     <p>It seems there 's no cutie around here'.</p>
 
     <span className="pulse">
-      <img src={`/images/users/${activeCatsImage}`} alt="You..." />
+      <img src={`/images/kitten/${activeCatImage}`} alt="You..." />
     </span>
 
     <div id="liked-cat">

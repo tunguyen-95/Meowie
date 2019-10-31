@@ -66,7 +66,7 @@ const App = () => {
         />
       ) : (
         <Lonely
-          activeUserImage={cat[activeCat].image}
+          activeCatImage={cat[activeCat].image}
           likedCats={likedCats}
           superLikedCats={superLikedCats}
         />

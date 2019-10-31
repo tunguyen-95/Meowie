@@ -8,7 +8,7 @@ const Actions = ({ cat, modifySuperficialChoices }) => (
   <div id="actions">
     <Rewind catId={cat.id} />
     <Dislike
-      userId={cat.id}
+      catId={cat.id}
       modifySuperficialChoices={modifySuperficialChoices}
     />
     <Like catId={cat.id} modifySuperficialChoices={modifySuperficialChoices} />
