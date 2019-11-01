@@ -13,7 +13,7 @@
   {
     "id": 1,
     "name": "Martin",
-    "desc": "Cutest guy",
+    "desc": "Hey , how about a date to find out;)?",
     "age": 2,
     "image": "2.jpg",
     "likedCats": [],
@@ -35,7 +35,7 @@
   {
     "id": 3,
     "name": "Michael",
-    "desc": "Im my own boss",
+    "desc": "I'm my own boss",
     "age": 2,
     "image": "4.jpg",
     "likedCats": [],
@@ -45,8 +45,8 @@
   },
   {
     "id": 4,
-    "name": "Dwight",
-    "desc": "Sales",
+    "name": "Tom",
+    "desc": "I love spending time in the kitchen",
     "age": 1,
     "image": "5.jpg",
     "likedCats": [],
@@ -57,7 +57,7 @@
   {
     "id": 5,
     "name": "Jessica",
-    "desc": "Actress",
+    "desc": "Model",
     "age": 3,
     "image": "6.jpg",
     "likedCats": [],
